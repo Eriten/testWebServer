@@ -31,5 +31,5 @@ bash test.sh
 # Running Tests
 ```shell
 # You can use the same container you built above for testing
-docker run server servertest.py
+docker run server clientTest.py
 ```
